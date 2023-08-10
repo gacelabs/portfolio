@@ -46,7 +46,8 @@
   margin: 0 !important;
 }
 .hero .intro .sub-title {
-  width: 93%;
+  /* width: 93%; */
+  text-align: justify;
 }
 
 /* Values
@@ -240,7 +241,7 @@
     width: 65rem;
   }
   .hero .intro .sub-title {
-    width: 94%;
+    width: 90%;
   }
   .proj-carousel iframe {
     height: 24rem;
