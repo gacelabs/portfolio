@@ -416,11 +416,17 @@ there.
   .u-max-full-width {
     height: 340px;
   }
+  iframe.u-max-full-width {
+    margin: 45px auto;
+  }
 }
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {
   .u-max-full-width {
     height: 340px;
+  }
+  iframe.u-max-full-width {
+    margin: 45px auto;
   }
 }
