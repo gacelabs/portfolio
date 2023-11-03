@@ -7,7 +7,7 @@ $(document).ready(function () {
 		arrows: true,
 	});
 
-	$('img, iframe').removeClass('hide');
+	$('img, iframe, video').removeClass('hide');
 
 	$('.value-multiplier strong').each(function (i, elem) {
 		var limit = parseInt($(elem).attr('limit'));

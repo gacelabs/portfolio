@@ -419,6 +419,9 @@ there.
   iframe.u-max-full-width {
     margin: 45px auto;
   }
+  video.u-max-full-width {
+    margin: 45px auto;
+  }
 }
 
 /* Larger than Desktop HD */
